@@ -2,6 +2,8 @@
 
 Reproduction of the issue for Navigating to Tabbed pages where the navigation area should contain the title of the tab page and the individual children tabbed pages should be visible underneath
 
+https://github.com/dotnet/maui/issues/8577
+
 In Windows and Android the title is never shown but the childrens titles are, in iOS everything works as expected
 
 | WinUI  | Android | iOS |
