@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Tabby.Pages.TabPage2"
+    Title="TabPage2"
+    IconImageSource="Images/camera2_2x.png">
+    <Grid>
+        <Label 
+            Text="Page 2, should have Title 'Tabbo' in the navigation area and Tab title 'TabPage2'"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+    </Grid>
+</ContentPage>
